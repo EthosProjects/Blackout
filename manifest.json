@@ -1,7 +1,7 @@
 {
     "name": "Blackout",
-    "version": "0.0.1",
-    "description": "Press F4 if  you need to remove everything from powercord quickly (togglable)",
+    "version": "1.0.0",
+    "description": "Press F4 to shutdown powercord instantly (togglable). Press f5 to refresh discord (togglable)",
     "author": "Ethos#0001",
-    "license": "MIT"
+    "license": "Unilicense"
 }
